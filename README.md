@@ -1,4 +1,7 @@
-code_collections
+Misc
 ================
 
-A place where I store useful codes
+Not so trivial to throw away.
+Not sophisticated enough to become a new project.
+
+Just collections of common wisdom.
