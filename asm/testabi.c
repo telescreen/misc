@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-int test(int *a)
+int test(double *a)
 {
-	*a = 5;
+	*a = 5.5f;
 }
 
 int main()
 {
-	int a;
+	double a;
 	test(&a);
 	return 0;
 }
